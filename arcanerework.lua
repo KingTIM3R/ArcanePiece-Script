@@ -384,7 +384,7 @@ end)
 -- ==============================================================
 
 -- Create the main window
-local Library = GrandHubX:Window("GrandLegacyX Hub", "", "", Enum.KeyCode.RightControl)
+local Library = GrandHubX:Window("GrandHubX", "", "", Enum.KeyCode.RightControl)
 
 -- Tab for Boss Farm
 local BossFarmTab = Library:Tab("Boss Farm")
