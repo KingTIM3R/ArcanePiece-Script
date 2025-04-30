@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/KingTIM3R/ArcanePiece-Script/refs/heads/main/arcane.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/KingTIM3R/Grand-Legacy/refs/heads/main/loader.lua'))()
