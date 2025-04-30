@@ -341,7 +341,7 @@ end
 local npcKillConfig = {
     enabled = false, -- Controlled by UI
     maxDistance = 1000,
-    refreshRate = 0.5
+    refreshRate = 2.5
 }
 local npcKillLastUpdateTime = 0
 local function killNPC(npcModel)
